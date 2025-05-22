@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const chillers = [
         { id: 1, link: 'LINK_CHILLER_1' },
         { id: 2, link: 'LINK_CHILLER_2' },
-        { id: 3, link: 'LINK_CHILLER_3' },
+        { id: 3, link: 'chillers/ch1/index.html' },
         // { id: 4, link: 'LINK_CHILLER_4' }
     ];
 
